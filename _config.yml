@@ -211,12 +211,15 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
+  - docker-compose.override.yml
   - docker-compose-slim.yml
   - docs/
   - FAQ.md
@@ -231,8 +234,10 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - requirements.txt
   - gems/
   - migrations/
+  - test/
   - vendor
 keep_files:
   - CNAME
