@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: leon.mayer@dkfz-heidelberg.de # your email address
 scholar_userid: uYVPJyIAAAAJ # your Google Scholar ID
-# github_username: leonmayer # your GitHub username
+github_username: leonmayer # your GitHub username
 linkedin_username: leond-mayer # your LinkedIn username
 x_username: leondmayer # your X (Twitter) username
 # cv_pdf: /assets/pdf/cv.pdf # uncomment and add a PDF to assets/pdf/ to show a CV icon
