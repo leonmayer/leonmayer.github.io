@@ -28,6 +28,7 @@ I'm a PhD student at the [German Cancer Research Center (DKFZ)](https://www.dkfz
 
 I work on this because I expect AI to become increasingly consequential, and I want to help make sure it goes well.
 
-Before my PhD, I earned a BS in Electrical Engineering from [RWTH Aachen](https://www.rwth-aachen.de/cms/~a/root/?lidx=1) and an MS from [TU Munich](https://www.tum.de/en/). I've also volunteered with [ARMoR](https://www.armoramr.org/), a nonprofit advocating for policies to fight antimicrobial resistance.
+Before my PhD, I earned a BS in Electrical Engineering from [RWTH Aachen](https://www.rwth-aachen.de/cms/~a/root/?lidx=1) and an MS from [TU Munich](https://www.tum.de/en/). I've also volunteered with [ARMoR](https://www.armoramr.org/), a nonprofit advocating for policies to fight antimicrobial resistance and, in summer 2026, completed BlueDot Impact's [AGI Strategy Course](https://bluedot.org/courses/agi-strategy).
 
 **If you find any of the above interesting, feel free to reach out!**
+
