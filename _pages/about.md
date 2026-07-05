@@ -26,7 +26,7 @@ latest_posts:
 
 I'm a PhD student at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/) working on benchmarking and understanding vision-language models in the [Group for Intelligent Medical Systems](https://www.dkfz.de/en/imsy). I am currently most interested in building meaningful evals and mechanistic interpretability.
 
-I work on this because I expect AI to become increasingly consequential, and I want to help make sure it goes well.
+I work on this because I expect AI to become increasingly consequential, and I want to help make sure it goes well for all sentient beings.
 
 Before my PhD, I earned a BSc in Electrical Engineering from [RWTH Aachen](https://www.rwth-aachen.de/cms/~a/root/?lidx=1) and an MSc from [TU Munich](https://www.tum.de/en/). I've also volunteered with [ARMoR](https://www.armoramr.org/), a nonprofit advocating for policies to fight antimicrobial resistance and, in summer 2026, completed BlueDot Impact's [AGI Strategy Course](https://bluedot.org/courses/agi-strategy).
 
