@@ -4,8 +4,14 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-description: <a href="/assets/pdf/CV_Leon_Mayer.pdf" target="_blank" rel="noopener noreferrer">Open the PDF in a new tab</a>
+description: My academic CV, embedded below and available as a PDF download.
 ---
+
+<p>
+  <a href="{{ '/assets/pdf/CV_Leon_Mayer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-file-pdf"></i> Open the PDF in a new tab
+  </a>
+</p>
 
 <object data="{{ '/assets/pdf/CV_Leon_Mayer.pdf' | relative_url }}" type="application/pdf" width="100%" style="height: 85vh; min-height: 500px; border: 1px solid var(--global-divider-color); border-radius: 6px;">
   <p>
