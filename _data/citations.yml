@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-08-19'
 papers:
   uYVPJyIAAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 28
     title: 'Confidence intervals uncovered: Are we ready for real-world medical imaging AI?'
     year: '2024'
   uYVPJyIAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 2
     title: Nadir heart rate as a novel risk marker of postoperative complications-a propensity matched analysis
     year: '2025'
   uYVPJyIAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 30
     title: Robotic scrub nurse to anticipate surgical instruments based on real-time laparoscopic video analysis
     year: '2024'
   uYVPJyIAAAAJ:Tyk-4Ss8FVUC:
@@ -18,7 +18,7 @@ papers:
     title: 'Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study'
     year: '2025'
   uYVPJyIAAAAJ:UeHWp8X0CEIC:
-    citations: 11
+    citations: 16
     title: Towards multimodal graph neural networks for surgical instrument anticipation
     year: '2024'
   uYVPJyIAAAAJ:W7OEmFMy1HYC:
@@ -26,11 +26,11 @@ papers:
     title: 'Application of artificial intelligence in esophageal surgery: a systematic review'
     year: '2025'
   uYVPJyIAAAAJ:WF5omc3nYNoC:
-    citations: 16
+    citations: 18
     title: Large-scale self-supervised video foundation model for intelligent surgery
     year: '2026'
   uYVPJyIAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 4
     title: '6 Fingers, 1 Kidney: Natural Adversarial Medical Images Reveal Critical Weaknesses of Vision-Language Models'
     year: '2025'
   uYVPJyIAAAAJ:eQOLeE2rZwMC:
@@ -38,7 +38,7 @@ papers:
     title: Child-appropriate experiment on auditory selective attention in a virtual acoustic environment
     year: '2020'
   uYVPJyIAAAAJ:u-x6o8ySG0sC:
-    citations: 72
+    citations: 73
     title: A deep learning-based camera approach for vital sign monitoring using thermography images for ICU patients
     year: '2021'
   uYVPJyIAAAAJ:u5HHmVD_uO8C:
