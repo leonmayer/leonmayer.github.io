@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-04'
 papers:
   uYVPJyIAAAAJ:2osOgNQ5qMEC:
     citations: 29
@@ -10,11 +10,11 @@ papers:
     title: Nadir heart rate as a novel risk marker of postoperative complications-a propensity matched analysis
     year: '2025'
   uYVPJyIAAAAJ:IjCSPb-OGe4C:
-    citations: 30
+    citations: 31
     title: Robotic scrub nurse to anticipate surgical instruments based on real-time laparoscopic video analysis
     year: '2024'
   uYVPJyIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: 'Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study'
     year: '2025'
   uYVPJyIAAAAJ:UeHWp8X0CEIC:
@@ -26,7 +26,7 @@ papers:
     title: 'Application of artificial intelligence in esophageal surgery: a systematic review'
     year: '2025'
   uYVPJyIAAAAJ:WF5omc3nYNoC:
-    citations: 18
+    citations: 20
     title: Large-scale self-supervised video foundation model for intelligent surgery
     year: '2026'
   uYVPJyIAAAAJ:YsMSGLbcyi4C:
