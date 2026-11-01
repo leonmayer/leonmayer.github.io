@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/) working on benchmarking and understanding vision-language models in the [Group for Intelligent Medical Systems](https://www.dkfz.de/en/imsy). I am currently most interested in building meaningful evals and in AI monitorability.
+I'm a PhD student at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/) working on benchmarking and understanding vision-language models in the [Group for Intelligent Medical Systems](https://www.dkfz.de/en/imsy). I am currently most interested in building meaningful evals and in agent monitorability.
 
 I work on this because I expect AI to become increasingly consequential, and I want to help make sure it goes well for all sentient beings.
 
